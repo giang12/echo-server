@@ -1,0 +1,2 @@
+docker run --name ws-echo-server --restart always --detach -p 10000:8080 jmalloc/echo-server
+

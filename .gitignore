@@ -1,2 +1,2 @@
-/artifacts/
-/.makefiles/
+.makefiles/
+node_modules
